@@ -1,5 +1,9 @@
 {
 "spider": "https://lxluck1314.github.io/GD0410/0627.jar",
+    
+"lives":[{"group":"redirect","channels":[{"name":"live","urls":[
+"proxy://do=live&type=txt&ext=aHR0cHM6Ly96dHozMTU1NTU5NTQuZ2l0aHViLmlvL215bWFvL2JhZGR5Y2hlbjA2MDgvdHYvbGl2ZS50eHQ="
+]}]}],
 
 "sites": [
 {"key": "csp_77"         ,"name":"🐞酷云七七","type":3,"api":"csp_Kunyu77","searchable":1,"quickSearch":1,"filterable":1},
