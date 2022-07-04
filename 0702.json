@@ -2,7 +2,7 @@
 // 配置地址 --> https://lxluck1314.github.io/GD0410/0702.json
 {
 "spider":"https://lxluck1314.github.io/GD0410/0702.jar",
-"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly96dHozMTU1NTU5NTQuZ2l0aHViLmlvL215bWFvL1RWQm94L3R2L3RzLnR4dA=="]}]}],
+"lives":[{"group":"redirect","channels":[{"name":"redirect","urls":["proxy://do=live&type=txt&ext=aHR0cHM6Ly9seGx1Y2sxMzE0LmdpdGh1Yi5pby9HRDA0MTAvemhpYm8udHh0"]}]}],
 
 
 "sites":[
