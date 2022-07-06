@@ -1,6 +1,6 @@
 {
 // spider
-"spider":"http://gg.gg/tvboxjar",
+"spider":"https://lxluck1314.github.io/GD0410/0703.jar",
 
 // 直播
 "lives":[{"group":"redirect","channels":[{"name":"live","urls":["proxy://do=live&type=txt&ext=aHR0cDovL2dnLmdnLzExbHRlMA=="]}]}],
